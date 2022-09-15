@@ -1,0 +1,63 @@
+h1 {
+    font-family: "Roboto";
+    font-weight: 900;
+    padding: 20px;
+}
+h3 {
+    font-family: "Roboto";
+    font-weight: 700;
+    padding: 20px;
+}
+nav {
+    font-family: "Lato";
+    font-weight: 700;
+    color: brown;
+    padding-left: 50px;
+}
+img {
+    padding-left: 50px;
+}
+.text p{
+    padding: 10px 50px;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+.larsseit-regular {
+    font-family: "Larsseit";
+    font-weight: 400;
+    color: blueviolet;
+}
+.larsseit-medium {
+    font-family: "Larsseit";
+    font-weight: 500;
+    color: chocolate;
+}
+.larsseit-bold {
+    font-family: "Larsseit";
+    font-weight: 700;
+    color: cornflowerblue;
+}
+.lato-regular {
+    font-family: "Lato";
+    font-weight: 400;
+    color: brown;
+}
+.lato-bold {
+    font-family: "Lato";
+    font-weight: 700;
+    color: blueviolet;
+} 
+.lato-black {
+    font-family: "Lato";
+    font-weight: 900;
+    color: chocolate;
+}
+.roboto-regular {
+    font-family: "Roboto";
+    font-weight: 400;
+    color: chocolate;
+}
+
+
+
+
